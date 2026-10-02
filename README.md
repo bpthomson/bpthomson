@@ -22,6 +22,6 @@ Full-stack anime analytics platform with MyAnimeList import, interactive statist
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bpthomson/bpthomson/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
-  <img src="https://raw.githubusercontent.com/bpthomson/bpthomson/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/bpthomson/bpthomson/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/bpthomson/bpthomson/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" />
 </p>
