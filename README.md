@@ -9,13 +9,13 @@ Android AI voice assistant with on-device Whisper transcription, VAD, and local/
 
 `Android` `Whisper` `ONNX` `LLM`
 
-### 📔 MAD — My AI Diary
+### 📔 MAD
 AI-assisted diary for English learning, with contextual grammar correction, rewriting, and vocabulary feedback.
 
 `Vue` `Flask` `Gemini` `Google Sheets`
 
 ### 🎬 MBL
-Full-stack anime analytics platform with MyAnimeList import, interactive statistics, and visualization.
+Full-stack anime analytics platform with MyAnimeList import, and visualization. Integrate with anime guess song game.
 
 `Vue` `Flask` `Python`
 
