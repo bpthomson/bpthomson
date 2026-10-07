@@ -12,12 +12,12 @@ Android AI voice assistant with on-device Whisper transcription, VAD, and local/
 ### 📔 MAD
 AI-assisted diary for English learning, with contextual grammar correction, rewriting, and vocabulary feedback.
 
-`Vue` `Flask` `Gemini` `Google Sheets`
+`Vue` `Flask` `Groq`
 
 ### 🎬 MBL
 Full-stack anime analytics platform with MyAnimeList import, and visualization. Integrate with anime guess song game.
 
-`Vue` `Flask` `Python`
+`Vue` `Flask` `Web Crawler`
 
 ---
 
